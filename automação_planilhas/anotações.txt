@@ -1,0 +1,5 @@
+Fornecedor,Descrição,Valor.Data de Vencimento,Status
+Loja x, Compra de papel A4,20.0,2025-04-10,Pendente
+Provedor Y,Serviço de internet,100.0,2025-04-15,Pago
+Imobiliária Z,Aluguel de escritório,300.0,2025-04-20,Pendente
+Fornecedor V,Compra de móveis,250,0,2025-04-25,Pago
